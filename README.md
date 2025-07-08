@@ -7,21 +7,21 @@
 2. Sign up or log in
 3. Navigate to API keys section
 4. Create a new API key
-5. Add to `.env` file: `OPENAI_API_KEY=sk-...`
+5. Add to `.env` file created below
 
 ### LangSmith API Key (Optional - for tracing)
 1. Go to [smith.langchain.com](https://smith.langchain.com)
 2. Sign up or log in
 3. Navigate to Settings → API Keys
 4. Create a new API key
-5. Add to `.env` file: `LANGSMITH_API_KEY=lsv2_...`
+5. Add to `.env` file created below
 
 ## Setup
 
 ### Using uv (recommended)
 ```bash
 # Clone and navigate to the project
-cd ai-assessment-v3
+cd ai-assessment
 
 # Install dependencies
 uv sync
