@@ -54,6 +54,10 @@ cp .env.example .env
 langgraph dev
 ```
 
+## LangSmith Using
+
+![LangSmiht](https://share.cleanshot.com/3tQTY55Y)
+
 ## Example Queries
 
 ### Chat Flow (conversational responses)
