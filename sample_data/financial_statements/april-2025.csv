@@ -1,0 +1,58 @@
+Date,Metric,Value,Category,Notes
+2025-03-31,Annual Recurring Revenue (ARR),156000000,Revenue Metrics,26% YoY growth - strong momentum
+2025-03-31,Monthly Recurring Revenue (MRR),13000000,Revenue Metrics,ARR divided by 12
+2025-03-31,Total Revenue,38500000,Income Statement,Q1 2025 - includes recurring and professional services
+2025-03-31,Recurring Revenue,36575000,Income Statement,95% of total revenue - highly predictable
+2025-03-31,Professional Services Revenue,1925000,Income Statement,5% of revenue - implementation support
+2025-03-31,Cost of Revenue,9625000,Income Statement,25% of revenue - typical for mature SaaS
+2025-03-31,Gross Profit,28875000,Income Statement,75% gross margin - software efficiency
+2025-03-31,Sales & Marketing,15400000,Income Statement,40% of revenue - growth investment
+2025-03-31,Research & Development,6545000,Income Statement,17% of revenue - product innovation
+2025-03-31,General & Administrative,4235000,Income Statement,11% of revenue - operational efficiency
+2025-03-31,Total Operating Expenses,26180000,Income Statement,68% of revenue
+2025-03-31,Operating Income,2695000,Income Statement,7% operating margin - path to profitability
+2025-03-31,EBITDA,4620000,Income Statement,12% EBITDA margin
+2025-03-31,Net Income,1540000,Income Statement,4% net margin - early profitability
+2025-03-31,Cash and Cash Equivalents,92000000,Balance Sheet,Strong runway of 3.5 years
+2025-03-31,Short-term Investments,35000000,Balance Sheet,Treasury management
+2025-03-31,Accounts Receivable,19250000,Balance Sheet,60-day collection average
+2025-03-31,Prepaid Expenses,3200000,Balance Sheet,Annual software licenses
+2025-03-31,Total Current Assets,149450000,Balance Sheet,High liquidity
+2025-03-31,Property Plant Equipment (net),8500000,Balance Sheet,Minimal for SaaS - mostly computers
+2025-03-31,Capitalized Software Development,18000000,Balance Sheet,Platform investments
+2025-03-31,Intangible Assets,25000000,Balance Sheet,Acquired technology and customer lists
+2025-03-31,Total Assets,200950000,Balance Sheet,Asset-light model
+2025-03-31,Accounts Payable,4800000,Balance Sheet,Vendor management
+2025-03-31,Accrued Expenses,6200000,Balance Sheet,Employee bonuses and commissions
+2025-03-31,Deferred Revenue (Current),52000000,Balance Sheet,Annual contracts paid upfront
+2025-03-31,Total Current Liabilities,63000000,Balance Sheet,Working capital positive
+2025-03-31,Deferred Revenue (Non-current),8000000,Balance Sheet,Multi-year contracts
+2025-03-31,Long-term Debt,15000000,Balance Sheet,Venture debt facility
+2025-03-31,Total Liabilities,86000000,Balance Sheet,Conservative leverage
+2025-03-31,Shareholders Equity,114950000,Balance Sheet,Series C funding completed
+2025-03-31,Operating Cash Flow,12500000,Cash Flow,32% cash flow margin
+2025-03-31,Free Cash Flow,8750000,Cash Flow,After CapEx and capitalized development
+2025-03-31,Cash Burn Rate,-2100000,Cash Flow,Monthly net burn (investments exceed profits)
+2025-03-31,Total Customers,2847,SaaS Metrics,18% growth YoY
+2025-03-31,Enterprise Customers (>$100k ARR),142,SaaS Metrics,35% of total ARR
+2025-03-31,Average Contract Value (ACV),54807,SaaS Metrics,ARR divided by customers
+2025-03-31,Net Revenue Retention,118,SaaS Metrics,Strong expansion within base
+2025-03-31,Gross Revenue Retention,94,SaaS Metrics,6% annual churn
+2025-03-31,Logo Retention,92,SaaS Metrics,8% customer churn
+2025-03-31,Customer Acquisition Cost (CAC),18500,SaaS Metrics,Blended acquisition cost
+2025-03-31,CAC Payback Period (months),17,SaaS Metrics,Improving efficiency
+2025-03-31,LTV to CAC Ratio,3.2,SaaS Metrics,Healthy unit economics
+2025-03-31,Magic Number,0.72,SaaS Metrics,Sales efficiency metric
+2025-03-31,Rule of 40,38,SaaS Metrics,26% growth + 12% EBITDA margin
+2025-03-31,Total Employees,487,Operational,22% growth YoY
+2025-03-31,Sales Employees,146,Operational,30% of workforce
+2025-03-31,Engineering Employees,195,Operational,40% of workforce
+2025-03-31,Customer Success Employees,73,Operational,15% of workforce
+2025-03-31,ARR per Employee,320329,Operational,Productivity metric
+2025-03-31,Gross Margin per Employee,59292,Operational,Efficiency metric
+2024-12-31,Annual Recurring Revenue (ARR),147000000,Revenue Metrics,Prior quarter for QoQ comparison
+2024-12-31,Total Revenue,37250000,Income Statement,Q4 2024 revenue
+2024-12-31,Net Income,850000,Income Statement,Q4 2024 profitability
+2024-03-31,Annual Recurring Revenue (ARR),124000000,Revenue Metrics,Prior year for YoY comparison
+2024-03-31,Total Revenue,29500000,Income Statement,Q1 2024 revenue
+2024-03-31,Total Customers,2412,SaaS Metrics,Q1 2024 customer base
