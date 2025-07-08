@@ -54,9 +54,9 @@ cp .env.example .env
 langgraph dev
 ```
 
-## LangSmith Using
+## Using LangSmith
 
-![LangSmiht](https://share.cleanshot.com/3tQTY55Y)
+![LangSmith UI](./static/langsmith.png)
 
 ## Example Queries
 
